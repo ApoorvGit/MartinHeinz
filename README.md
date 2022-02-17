@@ -53,10 +53,10 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Upcoming Python Features Brought to You by Python Enhancement Proposals](https://dev.to/martinheinz/upcoming-python-features-brought-to-you-by-python-enhancement-proposals-n74)
+- [Upcoming Python Features Brought to You by Python Enhancement Proposals](https://towardsdatascience.com/upcoming-python-features-brought-to-you-by-python-enhancement-proposals-57516c5558d9?source=rss-4cbd6b36e62a------2)
 - [Creating Beautiful Tracebacks with Python&#39;s Exception Hooks](https://dev.to/martinheinz/creating-beautiful-tracebacks-with-pythons-exceptions-hooks-4869)
+- [Create Beautiful Tracebacks with Python’s Exception Hooks](https://python.plainenglish.io/creating-beautiful-tracebacks-with-pythons-exception-hooks-c8a79e13558d?source=rss-4cbd6b36e62a------2)
 - [Building GitHub Apps with Golang](https://dev.to/martinheinz/building-github-apps-with-golang-3ljo)
-- [Profiling and Analyzing Performance of Python Programs](https://dev.to/martinheinz/profiling-and-analyzing-performance-of-python-programs-5c9c)
-- [Improving Application Availability with Pod Readiness Gates](https://dev.to/martinheinz/improving-application-availability-with-pod-readiness-gates-29pb)
 <!-- BLOG-POST-LIST:END -->
 <!-- links to social media icons -->
 
