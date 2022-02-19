@@ -52,11 +52,11 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Upcoming Python Features Brought to You by Python Enhancement Proposals](https://dev.to/martinheinz/upcoming-python-features-brought-to-you-by-python-enhancement-proposals-n74)
 - [Upcoming Python Features Brought to You by Python Enhancement Proposals](https://towardsdatascience.com/upcoming-python-features-brought-to-you-by-python-enhancement-proposals-57516c5558d9?source=rss-4cbd6b36e62a------2)
+- [Creating Beautiful Tracebacks with Python&#39;s Exception Hooks](https://dev.to/martinheinz/creating-beautiful-tracebacks-with-pythons-exceptions-hooks-4869)
 - [Create Beautiful Tracebacks with Python’s Exception Hooks](https://python.plainenglish.io/creating-beautiful-tracebacks-with-pythons-exception-hooks-c8a79e13558d?source=rss-4cbd6b36e62a------2)
-- [Building GitHub Apps With Golang](https://betterprogramming.pub/building-github-apps-with-golang-43b27f3e9621?source=rss-4cbd6b36e62a------2)
-- [Profiling and Analyzing Performance of Python Programs](https://towardsdatascience.com/profiling-and-analyzing-performance-of-python-programs-3bf3b41acd16?source=rss-4cbd6b36e62a------2)
-- [Improving Application Availability with Pod Readiness Gates](https://towardsdatascience.com/improving-application-availability-with-pod-readiness-gates-4ebebc3fb28a?source=rss-4cbd6b36e62a------2)
+- [Building GitHub Apps with Golang](https://dev.to/martinheinz/building-github-apps-with-golang-3ljo)
 <!-- BLOG-POST-LIST:END -->
 <!-- links to social media icons -->
 
