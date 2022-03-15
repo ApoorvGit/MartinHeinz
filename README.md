@@ -52,11 +52,11 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ultimate CI Pipeline for All of Your Python Projects](https://dev.to/martinheinz/ultimate-ci-pipeline-for-all-of-your-python-projects-2ob8)
 - [Ultimate CI Pipeline for All of Your Python Projects](https://towardsdatascience.com/ultimate-ci-pipeline-for-all-of-your-python-projects-27f9019ea71a?source=rss-4cbd6b36e62a------2)
 - [Optimizing Memory Usage of Python Applications](https://dev.to/martinheinz/optimizing-memory-usage-of-python-applications-2hh7)
 - [Optimizing Memory Usage in Python Applications](https://towardsdatascience.com/optimizing-memory-usage-in-python-applications-f591fc914df5?source=rss-4cbd6b36e62a------2)
 - [Upcoming Python Features Brought to You by Python Enhancement Proposals](https://dev.to/martinheinz/upcoming-python-features-brought-to-you-by-python-enhancement-proposals-n74)
-- [Upcoming Python Features Brought to You by Python Enhancement Proposals](https://towardsdatascience.com/upcoming-python-features-brought-to-you-by-python-enhancement-proposals-57516c5558d9?source=rss-4cbd6b36e62a------2)
 <!-- BLOG-POST-LIST:END -->
 <!-- links to social media icons -->
 
