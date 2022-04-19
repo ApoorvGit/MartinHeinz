@@ -52,11 +52,11 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Goodbye, Google Analytics - Why and How You Should Leave The Platform](https://dev.to/martinheinz/goodbye-google-analytics-why-and-how-you-should-leave-the-platform-530l)
 - [Goodbye, Google Analytics - Why and How You Should Leave The Platform](https://itnext.io/goodbye-google-analytics-why-and-how-you-should-leave-the-platform-a1b60b878a79?source=rss-4cbd6b36e62a------2)
 - [Python f-strings Are More Powerful Than You Might Think](https://dev.to/martinheinz/python-f-strings-are-more-powerful-than-you-might-think-2oop)
 - [Python f-strings Are More Powerful Than You Might Think](https://towardsdatascience.com/python-f-strings-are-more-powerful-than-you-might-think-8271d3efbd7d?source=rss-4cbd6b36e62a------2)
 - [Ultimate CI Pipeline for All of Your Python Projects](https://dev.to/martinheinz/ultimate-ci-pipeline-for-all-of-your-python-projects-2ob8)
-- [Ultimate CI Pipeline for All of Your Python Projects](https://towardsdatascience.com/ultimate-ci-pipeline-for-all-of-your-python-projects-27f9019ea71a?source=rss-4cbd6b36e62a------2)
 <!-- BLOG-POST-LIST:END -->
 <!-- links to social media icons -->
 
