@@ -52,11 +52,11 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Stop Messing With Kubernetes Finalizers](https://betterprogramming.pub/stop-messing-with-kubernetes-finalizers-b849511b2329?source=rss-4cbd6b36e62a------2)
 - [Automate All the Boring Kubernetes Operations with Python](https://dev.to/martinheinz/automate-all-the-boring-kubernetes-operations-with-python-4o1c)
 - [Automate All the Boring Kubernetes Operations With Python](https://betterprogramming.pub/automate-all-the-boring-kubernetes-operations-with-python-7a31bbf7a387?source=rss-4cbd6b36e62a------2)
 - [End-to-End Monitoring with Grafana Cloud with Minimal Effort](https://dev.to/martinheinz/end-to-end-monitoring-with-grafana-cloud-with-minimal-effort-13a1)
 - [End-to-End Monitoring with Grafana Cloud with Minimal Effort](https://itnext.io/end-to-end-monitoring-with-grafana-cloud-with-minimal-effort-a3052d402149?source=rss-4cbd6b36e62a------2)
-- [Goodbye, Google Analytics - Why and How You Should Leave The Platform](https://dev.to/martinheinz/goodbye-google-analytics-why-and-how-you-should-leave-the-platform-530l)
 <!-- BLOG-POST-LIST:END -->
 <!-- links to social media icons -->
 
