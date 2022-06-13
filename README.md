@@ -52,11 +52,11 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Data and System Visualization Tools That Will Boost Your Productivity](https://dev.to/martinheinz/data-and-system-visualization-tools-that-will-boost-your-productivity-17cn)
 - [Data and System Visualization Tools That Will Boost Your Productivity](https://towardsdatascience.com/data-and-system-visualization-tools-that-will-boost-your-productivity-e971c1aed5eb?source=rss-4cbd6b36e62a------2)
 - [Stop Messing with Kubernetes Finalizers](https://dev.to/martinheinz/stop-messing-with-kubernetes-finalizers-39lc)
 - [Stop Messing With Kubernetes Finalizers](https://betterprogramming.pub/stop-messing-with-kubernetes-finalizers-b849511b2329?source=rss-4cbd6b36e62a------2)
 - [Automate All the Boring Kubernetes Operations with Python](https://dev.to/martinheinz/automate-all-the-boring-kubernetes-operations-with-python-4o1c)
-- [Automate All the Boring Kubernetes Operations With Python](https://betterprogramming.pub/automate-all-the-boring-kubernetes-operations-with-python-7a31bbf7a387?source=rss-4cbd6b36e62a------2)
 <!-- BLOG-POST-LIST:END -->
 <!-- links to social media icons -->
 
