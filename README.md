@@ -52,11 +52,11 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Advanced Features of Kubernetes&#39; Horizontal Pod Autoscaler](https://dev.to/martinheinz/advanced-features-of-kubernetes-horizontal-pod-autoscaler-2i29)
 - [Advanced Features of Kubernetes’ Horizontal Pod Autoscaler](https://betterprogramming.pub/advanced-features-of-kubernetes-horizontal-pod-autoscaler-536ebd7893ad?source=rss-4cbd6b36e62a------2)
 - [Data and System Visualization Tools That Will Boost Your Productivity](https://dev.to/martinheinz/data-and-system-visualization-tools-that-will-boost-your-productivity-17cn)
 - [Data and System Visualization Tools That Will Boost Your Productivity](https://towardsdatascience.com/data-and-system-visualization-tools-that-will-boost-your-productivity-e971c1aed5eb?source=rss-4cbd6b36e62a------2)
 - [Stop Messing with Kubernetes Finalizers](https://dev.to/martinheinz/stop-messing-with-kubernetes-finalizers-39lc)
-- [Stop Messing With Kubernetes Finalizers](https://betterprogramming.pub/stop-messing-with-kubernetes-finalizers-b849511b2329?source=rss-4cbd6b36e62a------2)
 <!-- BLOG-POST-LIST:END -->
 <!-- links to social media icons -->
 
