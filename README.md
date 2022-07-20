@@ -52,11 +52,11 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [It’s Time to Say Goodbye to These Obsolete Python Libraries](https://python.plainenglish.io/its-time-to-say-goodbye-to-these-obsolete-python-libraries-7c02aa77d84a?source=rss-4cbd6b36e62a------2)
 - [Advanced Features of Kubernetes&#39; Horizontal Pod Autoscaler](https://dev.to/martinheinz/advanced-features-of-kubernetes-horizontal-pod-autoscaler-2i29)
 - [Advanced Features of Kubernetes’ Horizontal Pod Autoscaler](https://betterprogramming.pub/advanced-features-of-kubernetes-horizontal-pod-autoscaler-536ebd7893ad?source=rss-4cbd6b36e62a------2)
 - [Data and System Visualization Tools That Will Boost Your Productivity](https://dev.to/martinheinz/data-and-system-visualization-tools-that-will-boost-your-productivity-17cn)
 - [Data and System Visualization Tools That Will Boost Your Productivity](https://towardsdatascience.com/data-and-system-visualization-tools-that-will-boost-your-productivity-e971c1aed5eb?source=rss-4cbd6b36e62a------2)
-- [Stop Messing with Kubernetes Finalizers](https://dev.to/martinheinz/stop-messing-with-kubernetes-finalizers-39lc)
 <!-- BLOG-POST-LIST:END -->
 <!-- links to social media icons -->
 
