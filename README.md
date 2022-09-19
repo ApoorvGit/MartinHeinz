@@ -52,11 +52,11 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What is Python’s “self” Argument, Anyway?](https://betterprogramming.pub/what-is-pythons-self-argument-anyway-21d1c3bc421f?source=rss-4cbd6b36e62a------2)
 - [Python List Comprehensions Are More Powerful Than You Might Think](https://betterprogramming.pub/python-list-comprehensions-are-more-powerful-than-you-might-think-3363a90e5bb0?source=rss-4cbd6b36e62a------2)
 - [Should You Be Using Python’s Walrus Operator? &lpar;Yes. And Here’s Why&rpar;](https://betterprogramming.pub/should-you-be-using-pythons-walrus-operator-yes-and-here-s-why-36297be16907?source=rss-4cbd6b36e62a------2)
 - [Recipes and Tricks for Effective Structural Pattern Matching in Python](https://python.plainenglish.io/recipes-and-tricks-for-effective-structural-pattern-matching-in-python-852ddf498fa2?source=rss-4cbd6b36e62a------2)
 - [It’s Time to Say Goodbye to These Obsolete Python Libraries](https://python.plainenglish.io/its-time-to-say-goodbye-to-these-obsolete-python-libraries-7c02aa77d84a?source=rss-4cbd6b36e62a------2)
-- [Advanced Features of Kubernetes&#39; Horizontal Pod Autoscaler](https://dev.to/martinheinz/advanced-features-of-kubernetes-horizontal-pod-autoscaler-2i29)
 <!-- BLOG-POST-LIST:END -->
 <!-- links to social media icons -->
 
