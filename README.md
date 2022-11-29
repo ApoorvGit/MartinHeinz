@@ -52,11 +52,11 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Mastodon API in Python](https://medium.com/@martin.heinz/getting-started-with-mastodon-api-in-python-9f105309ed43?source=rss-4cbd6b36e62a------2)
 - [Backup and Restore Containers With Kubernetes Checkpointing API](https://betterprogramming.pub/backup-and-restore-of-containers-with-kubernetes-checkpointing-api-e310cf29cd4a?source=rss-4cbd6b36e62a------2)
 - [Getting Started with Google APIs in Python](https://towardsdatascience.com/getting-started-with-google-apis-in-python-7f07b5d8b806?source=rss-4cbd6b36e62a------2)
 - [Python CLI Tricks That Don’t Require Any Code Whatsoever](https://medium.com/@martin.heinz/python-cli-tricks-that-dont-require-any-code-whatsoever-e7bdb9409aeb?source=rss-4cbd6b36e62a------2)
 - [All the Ways To Introspect Python Objects at Runtime](https://betterprogramming.pub/all-the-ways-to-introspect-python-objects-at-runtime-80e6991b4cc6?source=rss-4cbd6b36e62a------2)
-- [What is Python’s “self” Argument, Anyway?](https://betterprogramming.pub/what-is-pythons-self-argument-anyway-21d1c3bc421f?source=rss-4cbd6b36e62a------2)
 <!-- BLOG-POST-LIST:END -->
 <!-- links to social media icons -->
 
