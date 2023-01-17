@@ -52,11 +52,11 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Boost Your Python Application Performance Using Continuous Profiling](https://medium.com/@martin.heinz/boost-your-python-application-performance-using-continuous-profiling-7eb993e68d23?source=rss-4cbd6b36e62a------2)
 - [Lazy Evaluation using Recursive Python Generators](https://towardsdatascience.com/lazy-evaluation-using-recursive-python-generators-9ee6af0dd803?source=rss-4cbd6b36e62a------2)
 - [Python Magic Methods You Might Not Have Heard About](https://towardsdatascience.com/python-magic-methods-you-havent-heard-about-53d11eba448f?source=rss-4cbd6b36e62a------2)
 - [Getting Started with Mastodon API in Python](https://medium.com/@martin.heinz/getting-started-with-mastodon-api-in-python-9f105309ed43?source=rss-4cbd6b36e62a------2)
 - [Backup and Restore Containers With Kubernetes Checkpointing API](https://betterprogramming.pub/backup-and-restore-of-containers-with-kubernetes-checkpointing-api-e310cf29cd4a?source=rss-4cbd6b36e62a------2)
-- [Getting Started with Google APIs in Python](https://towardsdatascience.com/getting-started-with-google-apis-in-python-7f07b5d8b806?source=rss-4cbd6b36e62a------2)
 <!-- BLOG-POST-LIST:END -->
 <!-- links to social media icons -->
 
