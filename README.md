@@ -52,11 +52,11 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Reduce — The Power of a Single Python Function](https://betterprogramming.pub/reduce-the-power-of-a-single-python-function-21f9aaa2c18e?source=rss-4cbd6b36e62a------2)
 - [Why I Will Never Use Alpine Linux Ever Again](https://betterprogramming.pub/why-i-will-never-use-alpine-linux-ever-again-a324fd0cbfd6?source=rss-4cbd6b36e62a------2)
 - [Cgroups — Deep Dive into Resource Management in Kubernetes](https://betterprogramming.pub/cgroups-deep-dive-into-resource-management-in-kubernetes-5970e23620f2?source=rss-4cbd6b36e62a------2)
 - [Dictionary Dispatch Pattern in Python](https://betterprogramming.pub/dictionary-dispatch-pattern-in-python-706189d4fd16?source=rss-4cbd6b36e62a------2)
 - [Boost Your Python Application Performance Using Continuous Profiling](https://medium.com/@martin.heinz/boost-your-python-application-performance-using-continuous-profiling-7eb993e68d23?source=rss-4cbd6b36e62a------2)
-- [Lazy Evaluation using Recursive Python Generators](https://towardsdatascience.com/lazy-evaluation-using-recursive-python-generators-9ee6af0dd803?source=rss-4cbd6b36e62a------2)
 <!-- BLOG-POST-LIST:END -->
 <!-- links to social media icons -->
 
