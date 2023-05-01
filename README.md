@@ -52,11 +52,11 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Python’s Missing Batteries: Essential Libraries You’re Missing Out On](https://betterprogramming.pub/pythons-missing-batteries-essential-libraries-you-re-missing-out-on-12853e5258d2?source=rss-4cbd6b36e62a------2)
 - [Kubernetes-Native Synthetic Monitoring with Kuberhealthy](https://betterprogramming.pub/kubernetes-native-synthetic-monitoring-with-kuberhealthy-15a8939972a?source=rss-4cbd6b36e62a------2)
 - [Make Your CLI Demos a Breeze With Zero Stress and Zero Mistakes](https://betterprogramming.pub/make-your-cli-demos-a-breeze-with-zero-stress-and-zero-mistakes-5e3f176d2fd3?source=rss-4cbd6b36e62a------2)
 - [Reduce — The Power of a Single Python Function](https://betterprogramming.pub/reduce-the-power-of-a-single-python-function-21f9aaa2c18e?source=rss-4cbd6b36e62a------2)
 - [Why I Will Never Use Alpine Linux Ever Again](https://betterprogramming.pub/why-i-will-never-use-alpine-linux-ever-again-a324fd0cbfd6?source=rss-4cbd6b36e62a------2)
-- [Cgroups — Deep Dive into Resource Management in Kubernetes](https://betterprogramming.pub/cgroups-deep-dive-into-resource-management-in-kubernetes-5970e23620f2?source=rss-4cbd6b36e62a------2)
 <!-- BLOG-POST-LIST:END -->
 <!-- links to social media icons -->
 
