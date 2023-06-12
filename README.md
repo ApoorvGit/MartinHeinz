@@ -52,11 +52,11 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Right Way to Run Shell Commands From Python](https://betterprogramming.pub/the-right-way-to-run-shell-commands-from-python-c05f0b9d6cb7?source=rss-4cbd6b36e62a------2)
-- [Real Multithreading is Coming to Python — Learn How You Can Use It Now](https://betterprogramming.pub/real-multithreading-is-coming-to-python-learn-how-you-can-use-it-now-90dd7fb81bdf?source=rss-4cbd6b36e62a------2)
-- [Python’s Missing Batteries: Essential Libraries You’re Missing Out On](https://betterprogramming.pub/pythons-missing-batteries-essential-libraries-you-re-missing-out-on-12853e5258d2?source=rss-4cbd6b36e62a------2)
-- [Kubernetes-Native Synthetic Monitoring with Kuberhealthy](https://betterprogramming.pub/kubernetes-native-synthetic-monitoring-with-kuberhealthy-15a8939972a?source=rss-4cbd6b36e62a------2)
-- [Make Your CLI Demos a Breeze With Zero Stress and Zero Mistakes](https://betterprogramming.pub/make-your-cli-demos-a-breeze-with-zero-stress-and-zero-mistakes-5e3f176d2fd3?source=rss-4cbd6b36e62a------2)
+- [Advanced Features of Kubernetes&#39; Horizontal Pod Autoscaler](https://dev.to/martinheinz/advanced-features-of-kubernetes-horizontal-pod-autoscaler-2i29)
+- [Data and System Visualization Tools That Will Boost Your Productivity](https://dev.to/martinheinz/data-and-system-visualization-tools-that-will-boost-your-productivity-17cn)
+- [Stop Messing with Kubernetes Finalizers](https://dev.to/martinheinz/stop-messing-with-kubernetes-finalizers-39lc)
+- [Automate All the Boring Kubernetes Operations with Python](https://dev.to/martinheinz/automate-all-the-boring-kubernetes-operations-with-python-4o1c)
+- [End-to-End Monitoring with Grafana Cloud with Minimal Effort](https://dev.to/martinheinz/end-to-end-monitoring-with-grafana-cloud-with-minimal-effort-13a1)
 <!-- BLOG-POST-LIST:END -->
 <!-- links to social media icons -->
 
