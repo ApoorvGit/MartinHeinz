@@ -52,11 +52,11 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Remote Interactive Debugging of Python Applications Running in Kubernetes](https://betterprogramming.pub/remote-interactive-debugging-of-python-applications-running-in-kubernetes-17a3d2eed86f?source=rss-4cbd6b36e62a------2)
 - [The Right Way to Run Shell Commands From Python](https://betterprogramming.pub/the-right-way-to-run-shell-commands-from-python-c05f0b9d6cb7?source=rss-4cbd6b36e62a------2)
 - [Real Multithreading is Coming to Python — Learn How You Can Use It Now](https://betterprogramming.pub/real-multithreading-is-coming-to-python-learn-how-you-can-use-it-now-90dd7fb81bdf?source=rss-4cbd6b36e62a------2)
 - [Python’s Missing Batteries: Essential Libraries You’re Missing Out On](https://betterprogramming.pub/pythons-missing-batteries-essential-libraries-you-re-missing-out-on-12853e5258d2?source=rss-4cbd6b36e62a------2)
 - [Kubernetes-Native Synthetic Monitoring with Kuberhealthy](https://betterprogramming.pub/kubernetes-native-synthetic-monitoring-with-kuberhealthy-15a8939972a?source=rss-4cbd6b36e62a------2)
-- [Make Your CLI Demos a Breeze With Zero Stress and Zero Mistakes](https://betterprogramming.pub/make-your-cli-demos-a-breeze-with-zero-stress-and-zero-mistakes-5e3f176d2fd3?source=rss-4cbd6b36e62a------2)
 <!-- BLOG-POST-LIST:END -->
 <!-- links to social media icons -->
 
