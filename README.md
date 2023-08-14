@@ -52,11 +52,11 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Python “Features” That Might Catch You By Surprise](https://betterprogramming.pub/weird-python-features-that-might-catch-you-by-surprise-5b2ca521b0bf?source=rss-4cbd6b36e62a------2)
 - [Lessons Learned From Writing 100 Articles](https://medium.com/@martin.heinz/lessons-learned-from-writing-100-articles-1d33615610f9?source=rss-4cbd6b36e62a------2)
 - [Debugging Crashes and Deadlocks in Python using PyStack](https://betterprogramming.pub/debugging-crashes-and-deadlocks-in-python-using-pystack-82569524dc32?source=rss-4cbd6b36e62a------2)
 - [Goodbye etcd, Hello PostgreSQL: Running Kubernetes with an SQL Database](https://betterprogramming.pub/goodbye-etcd-hello-postgresql-running-kubernetes-with-an-sql-database-7e1b2e9b5f8f?source=rss-4cbd6b36e62a------2)
 - [Remote Interactive Debugging of Python Applications Running in Kubernetes](https://betterprogramming.pub/remote-interactive-debugging-of-python-applications-running-in-kubernetes-17a3d2eed86f?source=rss-4cbd6b36e62a------2)
-- [The Right Way to Run Shell Commands From Python](https://betterprogramming.pub/the-right-way-to-run-shell-commands-from-python-c05f0b9d6cb7?source=rss-4cbd6b36e62a------2)
 <!-- BLOG-POST-LIST:END -->
 <!-- links to social media icons -->
 
