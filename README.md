@@ -52,11 +52,11 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Everything You Can Do With Python’s Bisect Module](https://betterprogramming.pub/everything-you-can-do-with-pythons-bisect-module-40bdaadbc22f?source=rss-4cbd6b36e62a------2)
-- [You Don’t Need a Dedicated Cache Service — PostgreSQL as a Cache](https://itnext.io/you-dont-need-a-dedicated-cache-service-postgresql-as-a-cache-bf951afc35e3?source=rss-4cbd6b36e62a------2)
-- [A Collection of Docker Images To Solve All Your Debugging Needs](https://betterprogramming.pub/a-collection-of-docker-images-to-solve-all-your-debugging-needs-189973aae5c0?source=rss-4cbd6b36e62a------2)
-- [Python “Features” That Might Catch You By Surprise](https://betterprogramming.pub/weird-python-features-that-might-catch-you-by-surprise-5b2ca521b0bf?source=rss-4cbd6b36e62a------2)
-- [Lessons Learned From Writing 100 Articles](https://medium.com/@martin.heinz/lessons-learned-from-writing-100-articles-1d33615610f9?source=rss-4cbd6b36e62a------2)
+- [Advanced Features of Kubernetes&#39; Horizontal Pod Autoscaler](https://dev.to/martinheinz/advanced-features-of-kubernetes-horizontal-pod-autoscaler-2i29)
+- [Data and System Visualization Tools That Will Boost Your Productivity](https://dev.to/martinheinz/data-and-system-visualization-tools-that-will-boost-your-productivity-17cn)
+- [Stop Messing with Kubernetes Finalizers](https://dev.to/martinheinz/stop-messing-with-kubernetes-finalizers-39lc)
+- [Automate All the Boring Kubernetes Operations with Python](https://dev.to/martinheinz/automate-all-the-boring-kubernetes-operations-with-python-4o1c)
+- [End-to-End Monitoring with Grafana Cloud with Minimal Effort](https://dev.to/martinheinz/end-to-end-monitoring-with-grafana-cloud-with-minimal-effort-13a1)
 <!-- BLOG-POST-LIST:END -->
 <!-- links to social media icons -->
 
