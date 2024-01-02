@@ -52,11 +52,11 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Monitoring Indoor Air Quality with Prometheus, Grafana and a CO2 Sensor](https://itnext.io/monitoring-indoor-air-quality-with-prometheus-grafana-and-a-co2-sensor-6c7fb73f6048?source=rss-4cbd6b36e62a------2)
 - [Everything You Can Do With Python’s Bisect Module](https://betterprogramming.pub/everything-you-can-do-with-pythons-bisect-module-40bdaadbc22f?source=rss-4cbd6b36e62a------2)
 - [You Don’t Need a Dedicated Cache Service — PostgreSQL as a Cache](https://itnext.io/you-dont-need-a-dedicated-cache-service-postgresql-as-a-cache-bf951afc35e3?source=rss-4cbd6b36e62a------2)
 - [A Collection of Docker Images To Solve All Your Debugging Needs](https://betterprogramming.pub/a-collection-of-docker-images-to-solve-all-your-debugging-needs-189973aae5c0?source=rss-4cbd6b36e62a------2)
 - [Python “Features” That Might Catch You By Surprise](https://betterprogramming.pub/weird-python-features-that-might-catch-you-by-surprise-5b2ca521b0bf?source=rss-4cbd6b36e62a------2)
-- [Lessons Learned From Writing 100 Articles](https://medium.com/@martin.heinz/lessons-learned-from-writing-100-articles-1d33615610f9?source=rss-4cbd6b36e62a------2)
 <!-- BLOG-POST-LIST:END -->
 <!-- links to social media icons -->
 
