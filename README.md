@@ -52,11 +52,11 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Recent Docker BuildKit Features You’re Missing Out On](https://levelup.gitconnected.com/recent-docker-buildkit-features-youre-missing-out-on-a25aed8689fe?source=rss-4cbd6b36e62a------2)
 - [Shell History Is Your Best Productivity Tool](https://itnext.io/shell-history-is-your-best-productivity-tool-ed3824061efd?source=rss-4cbd6b36e62a------2)
 - [Modern Git Commands and Features You Should Be Using](https://itnext.io/modern-git-commands-and-features-you-should-be-using-6ee65667e62b?source=rss-4cbd6b36e62a------2)
 - [Everything You Can Do with Python’s textwrap Module](https://towardsdatascience.com/everything-you-can-do-with-pythons-textwrap-module-0d82c377a4c8?source=rss-4cbd6b36e62a------2)
 - [Monitoring Indoor Air Quality with Prometheus, Grafana and a CO2 Sensor](https://itnext.io/monitoring-indoor-air-quality-with-prometheus-grafana-and-a-co2-sensor-6c7fb73f6048?source=rss-4cbd6b36e62a------2)
-- [Everything You Can Do With Python’s Bisect Module](https://betterprogramming.pub/everything-you-can-do-with-pythons-bisect-module-40bdaadbc22f?source=rss-4cbd6b36e62a------2)
 <!-- BLOG-POST-LIST:END -->
 <!-- links to social media icons -->
 
