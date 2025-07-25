@@ -52,11 +52,11 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [10 Examples Why cURL is an Awesome CLI Tool](https://levelup.gitconnected.com/10-examples-why-curl-is-an-awesome-cli-tool-0b23223ec845?source=rss-4cbd6b36e62a------2)
-- [A Guide to Python’s Weak References Using weakref Module](https://medium.com/data-science/a-guide-to-pythons-weak-references-using-weakref-module-d3381b01db99?source=rss-4cbd6b36e62a------2)
-- [Recent Docker BuildKit Features You’re Missing Out On](https://levelup.gitconnected.com/recent-docker-buildkit-features-youre-missing-out-on-a25aed8689fe?source=rss-4cbd6b36e62a------2)
-- [Shell History Is Your Best Productivity Tool](https://itnext.io/shell-history-is-your-best-productivity-tool-ed3824061efd?source=rss-4cbd6b36e62a------2)
-- [Modern Git Commands and Features You Should Be Using](https://itnext.io/modern-git-commands-and-features-you-should-be-using-6ee65667e62b?source=rss-4cbd6b36e62a------2)
+- [Advanced Features of Kubernetes&#39; Horizontal Pod Autoscaler](https://dev.to/martinheinz/advanced-features-of-kubernetes-horizontal-pod-autoscaler-2i29)
+- [Data and System Visualization Tools That Will Boost Your Productivity](https://dev.to/martinheinz/data-and-system-visualization-tools-that-will-boost-your-productivity-17cn)
+- [Stop Messing with Kubernetes Finalizers](https://dev.to/martinheinz/stop-messing-with-kubernetes-finalizers-39lc)
+- [Automate All the Boring Kubernetes Operations with Python](https://dev.to/martinheinz/automate-all-the-boring-kubernetes-operations-with-python-4o1c)
+- [End-to-End Monitoring with Grafana Cloud with Minimal Effort](https://dev.to/martinheinz/end-to-end-monitoring-with-grafana-cloud-with-minimal-effort-13a1)
 <!-- BLOG-POST-LIST:END -->
 <!-- links to social media icons -->
 
